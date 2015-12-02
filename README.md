@@ -24,5 +24,15 @@ This theme was created for the [Librarybox](http://librarybox.us) and [PirateBox
 ![desktop](/superflat-desktop.png)
 
 
+## Installation
+
+Level: Not too difficult.
+
+Simply change the appropriate HTML/CSS files.
+
+**Directory Listing**
+
+
+To change the Directory Listing please replace the file `dir-generator.php` with the one I provided.
 
 # SUPER FLAT THEME
