@@ -13,15 +13,15 @@ This theme was created for the [Librarybox](http://librarybox.us) and [PirateBox
 
 - Mobile
 
-![mobile](Librobox-superFlat-theme/screenshots/superflat-mobile.png)
+![mobile](screenshots/superFlat-mobile.png)
 
 - Tablet
 
-![tablet](Librobox-superFlat-theme/screenshots/superflat-tablet.png)
+![tablet](screenshots/superFlat-tablet.png)
 
 - Desktop
 
-![desktop](Librobox-superFlat-theme/screenshots/superFlat-desktop.png)
+![desktop](screenshots/superFlat-desktop.png)
 
 
 ## Installation
